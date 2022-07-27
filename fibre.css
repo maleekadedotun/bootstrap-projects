@@ -1,0 +1,140 @@
+.create{
+font-size: 65px;
+}
+.rated{
+    font-size: 20px;
+    color: #1E1E1E;
+
+}
+.fibreimg{
+    font-size: 10%;
+    /* padding-top: 0px; */
+}
+.setup{
+    line-height: 30px;
+}
+.example{
+    text-decoration: underline;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.credit{
+    margin-top: 20px;
+}
+.star{
+    padding-top: 100px;
+}
+.hero{
+width: 100%;
+padding-bottom: 100px;
+}
+.fibre{
+color: hsl(258deg 66% 56%);
+}
+.fibre{
+    padding-top: 70px;
+}
+.premade{
+    color: #1E1E1E;
+}
+.time{
+   padding-top : 40px;
+}
+.build{
+    padding-top: 10px;
+}
+.code{
+    padding-top : 40px;
+}
+.custom{
+    padding-top: 10px;
+}
+.customize{
+    color: #1E1E1E;
+}
+.allsizes{
+    padding-top: 40px;
+}
+.responsiveness{
+    padding-top: 10px;
+}
+.view{
+    color: #7145d9 !important;
+}
+.avatar{
+    float: left;
+    margin-top: -10px;
+}
+.sarah{
+    color: #7145d9 !important;
+}
+.box2{
+    background-color: #7145d9 !important;
+    margin-left: 40px;
+    border-radius: 10px;
+    margin-top: 70px;
+
+}
+.diversity{
+    padding-top: 100px;
+}
+.simply{
+    font-size: 20px;
+}
+.page{
+    padding-top: 50px;
+   
+}
+.minutes{
+    margin-top: 70px;
+}
+.fa-heart{
+    width: 5%;
+}
+
+.btn{
+    color: #7145d9;
+}
+
+.unparralled{
+    background-color: #7145d9;
+
+}
+.page1{
+    padding-top: 70px;
+    
+}
+.carousel-item{
+    padding-bottom: 120px;
+}
+
+.carousel-control{
+    padding-bottom: 30px;
+
+}
+.sign-in{
+margin: auto;
+}
+
+.data{
+    border-radius: 50%;
+    margin-top: -60px;
+    width: 2% !important;
+    height: 6px !important;
+
+}
+.active{
+    margin-top: -60px ;
+    border-radius: 50%;
+
+
+}
+.nameHelp{
+    color: #ff0000;
+}
+.email{
+    color: #ff0000;
+}
+.password{
+    color: #ff0000;
+}

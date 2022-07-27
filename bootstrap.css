@@ -1,0 +1,55 @@
+
+.eagle{
+border-radius: 100%;
+
+}
+.info{
+    background-color: #abcb9c;
+    height: 600px;
+    padding: 80px;
+    text-align: center;
+}
+.text1{
+    color: white;
+}
+.text2{
+    color: white;
+    padding-top: 20px;
+}
+button{
+    /* width: 10%; */
+}
+.info2{
+    background-color: #474e5d;
+    height: 350px;
+    padding: 50px;
+}
+.text4{
+    color: #ffffff;
+}
+.text3{
+margin-top: 50px;
+}
+.eagleimage{
+    width: 100%;
+}
+.info3{
+margin-top: 100px;
+height: 200px;
+padding: 90px;
+}
+.imgcard{
+    width: 100%;
+}
+.first{
+    color: #ff0000;
+}
+.last{
+    color: #ff0000;
+}
+.mid{
+    color: #ff0000;
+}
+.add1{
+    color: #ff0000;
+}

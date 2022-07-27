@@ -1,0 +1,69 @@
+.navbar{
+  background-color: #2d2d30;
+  opacity: 0.9;
+  color: white;
+  letter-spacing: 4px;
+}
+.fab{
+  font-size: 25px;
+  padding-left: 20px;
+  margin-right: -40px;
+  margin-top: 5px;
+}
+.band{
+  letter-spacing: 4px;
+}
+.music{
+  line-height: 50px;
+}
+.create{
+  font-size: 18px;
+}
+.imgname{
+  border-radius: 50%;
+  /* margin-left: 40px; */
+}
+.imgname:hover{
+  /* background-color: aqua; */
+}
+.ticket{
+  margin-top: 100px;
+  /* height: 1800px; */
+}
+.tour{
+  padding-top: 100px;
+  letter-spacing: 20px;
+}
+.three{
+  float: right;
+  border-radius: 50%;
+}
+.love{
+  font-size: 20px;
+}
+.chicago{
+  line-height: 20px;
+}
+.fans{
+  /* padding-left: 500px; */
+  text-align: center;
+}
+.send{
+  float: right;
+}
+.blog{
+  letter-spacing: 10px;
+}
+.country{
+  padding-bottom: 100px;
+}
+.footer{
+  padding-bottom: 50px;
+  padding-top: 80px;
+}
+.nav-link{
+  color: #2d2d30;
+}
+.map{
+  width: 100%;
+}

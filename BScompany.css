@@ -1,0 +1,132 @@
+ul{
+    letter-spacing: 4px;
+    font-size: 20px;
+    margin-right: 70px;
+    
+}
+.navbar{
+    background-color: #f4511e;
+}
+.jumbotron{
+    /* background-color: #f4511e; */
+    /* border-radius: 0%; */
+    text-align: center;
+}
+.form-control{
+ /* float: right; */
+}
+.btn1{
+    margin: auto;
+}
+.company{
+    font-size: 70px;
+    padding-top: 70px;
+}
+.bla{
+    line-height: 60px;
+}
+.about{
+  font-size: 1.8rem;
+  padding-top: 60px;
+}
+.lorem1{
+    margin-top: 60px;
+}
+.lorem2{
+    margin-top: 60px;
+    font-size: 1.2rem;
+}
+.moon1{
+      padding-top: 150px; 
+      width: 100%;
+}
+.btn{
+    /* margin-top: 40px; */
+     /* width: 20%; */
+    /* font-size: 20x; */
+}
+.content1{
+    margin-top: 60px;
+    
+}
+.moon2{
+    width: 100%;
+}
+.mission{
+    margin-top: 50px;
+}
+.vission{
+  margin-top: 50px;
+}
+.fa-power-off{
+    font-size: 70px;
+    color: #f4511e;
+    margin-top: 50px;
+}
+.fa-heart{
+    font-size: 70px;
+    color: #f4511e;
+    margin-top: 50px;
+}
+.fa-briefcase{
+    font-size: 70px;
+    color: #f4511e;
+    margin-top: 50px;
+}
+.service{
+  margin-top: 70px;
+
+}
+.offer{
+    line-height: 70px;
+}
+.love{
+margin-top: 40px;
+}
+.lorem3{
+    line-height: 60px;
+}
+.fa-leaf{
+    font-size: 70px;
+    color: #f4511e;
+}
+.content2{
+margin-top: 70px;
+
+}
+.fa-star-of-david{
+    font-size: 70px;
+    color: #f4511e;
+}
+.fa-wrench{
+    font-size: 70px;
+    color: #f4511e;
+}
+.portfolio{
+    padding-top: 50px;
+}
+.say{
+    margin-top: 60px;
+}
+.doe{
+margin-top: 70px;
+margin-bottom: 70px;
+}
+.price{
+margin-top: 80px;
+}
+.basic{
+    background-color: #f4511e;
+    font-size: 40px;
+    height: 50px;
+    color: white;
+    /* padding: 10px; */
+}
+.send{
+float: right;
+}
+
+.footer{
+    padding-top: 70px;
+    padding-bottom: 40px;
+}

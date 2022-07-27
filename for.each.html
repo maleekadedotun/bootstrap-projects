@@ -1,0 +1,47 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <h1>For Each</h1> -->
+
+    <input type="text" id="true1"><br>
+    <input type="text" id="true2"><br>
+    <input type="text" name="" id="true3"><br><br>
+
+    <button onclick="sub()">submitButton</button>
+    <script>
+        //  const numbers ={num:[45,4, 9,16, 25], num:[]}
+
+
+
+        //  const numbers1 =[45, 4 , 9, 16, 25];
+        //  const numbers2 =               `
+
+        function sub(){
+            let true1 =document.getElementById('true1').value;
+            let true2 =document.getElementById('true2').value;
+            let true3 =document.getElementById('true3').value;
+
+            let crown = 'true'
+            let birth = 'false'
+
+
+            if((true1 && true3 == crown) && (true2 == birth)){
+               alert('the value is true');
+
+            }
+            else if((true1 && true3 == birth) && (true2 == crown)){
+                alert('equation balanced')
+            }
+            else{
+                alert('empty input')
+            }
+           
+        }
+    </script>
+</body>
+</html>
